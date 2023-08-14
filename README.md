@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jos-Lewis
-- 👀 I’m interested in programming.
+- 👀 I’m interested in music, programming and video games.
 - 🌱 I’m currently learning AI.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on everything interesting.
 - 📫 How to reach me jos_lewis@outlook.com
 
 <!---
