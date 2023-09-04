@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jos-Lewis
+- 👋 Hi, I’m Joseph Lewis
 - 👀 I’m interested in music, programming and video games.
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on everything interesting.
